@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Mar 23 11:45:58 JST 2022
+0.base=E\:\\Admob-Banner-interstitial-for-android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=E\:\\Admob-Banner-interstitial-for-android-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+0.set=DEX
